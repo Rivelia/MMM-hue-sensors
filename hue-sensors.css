@@ -1,0 +1,27 @@
+.hue-sensors-header {
+	text-align: center;
+}
+
+.hue-sensors-name {
+	text-align: left;
+}
+
+.hue-sensors-reachable {
+	color: #bcddff;
+}
+
+.hue-sensors-unreachable {
+	color: #ff8e99;
+}
+
+.hue-sensors-temperature {
+	text-align: right;
+}
+
+.hue-sensors-battery {
+	text-align: right;
+}
+
+.hue-sensors-table > * > tr > td {
+	padding: 2px;
+}

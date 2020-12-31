@@ -1,0 +1,20 @@
+{
+	"name": "mmm-hue-sensors",
+	"version": "1.0.0",
+	"description": "Philips Hue module to be used by Magic Mirror",
+	"main": "MMM-hue-sensors.js",
+	"keywords": [
+		"philips",
+		"hue",
+		"sensor",
+		"magic",
+		"mirror",
+		"module"
+	],
+	"author": {
+		"name": "Baptiste Michel",
+		"email": "kevisor@gmail.com",
+		"url": "https://rivelia.org"
+	},
+	"license": "MIT"
+}
